@@ -1,0 +1,10 @@
+{
+    "name": "simon/php-poo-composer",
+    "description": "composer of project",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "require": {}
+}

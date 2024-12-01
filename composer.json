@@ -1,0 +1,13 @@
+{
+    "name": "simon/php-poo-composer",
+    "description": "composerof project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
